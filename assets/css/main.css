@@ -702,10 +702,10 @@
 
 	#main {
 		position: relative;
-		max-width: 60%;
+		max-width: 30%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: #00000;
+		background: #ffffff;
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
