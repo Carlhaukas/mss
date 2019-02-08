@@ -1,6 +1,6 @@
 # Site settings
 title: MS Solutions | Aquaculture Systems
-email: carl.haukas@ms-solutions.no
+email: contact@ms-solutions.no
 description: Introducing crab feeding on industrial scale.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ms-solutions.no" # the base hostname & protocol for your site
@@ -10,7 +10,7 @@ your-name: MS Solutions
 your-title: Introducing crab feeding on industrial scale
 
 # Social settings
-500px_url: mailto:carl.haukas@ms-solutions.no
+500px_url: mailto:contact@ms-solutions.no
 facebook_url: https://facebook.com
 github_url:
 gitlab_url:
